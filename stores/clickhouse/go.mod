@@ -1,4 +1,4 @@
-module github.com/zeromicro/zero-contrib/stores/clickhouse
+module github.com/damsonpay/zero-contrib/stores/clickhouse
 
 go 1.16
 

@@ -1,4 +1,4 @@
-module github.com/zeromicro/zero-contrib/logx/zerologx
+module github.com/damsonpay/zero-contrib/logx/zerologx
 
 go 1.16
 

@@ -11,7 +11,7 @@ go get -u github.com/zeromicro/go-zero
 Download the module:
 
 ```console
-go get -u github.com/zeromicro/zero-contrib/router/gin
+go get -u github.com/damsonpay/zero-contrib/router/gin
 ```
 
 For example:
@@ -27,7 +27,7 @@ import (
 	"github.com/zeromicro/go-zero/core/service"
 	"github.com/zeromicro/go-zero/rest"
 	"github.com/zeromicro/go-zero/rest/httpx"
-	"github.com/zeromicro/zero-contrib/router/gin"
+	"github.com/damsonpay/zero-contrib/router/gin"
 	stdgin "github.com/gin-gonic/gin"
 )
 

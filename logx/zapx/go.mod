@@ -1,4 +1,4 @@
-module github.com/zeromicro/zero-contrib/logx/zapx
+module github.com/damsonpay/zero-contrib/logx/zapx
 
 go 1.16
 

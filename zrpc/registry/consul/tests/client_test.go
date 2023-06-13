@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/zeromicro/zero-contrib/zrpc/registry/consul"
+	_ "github.com/damsonpay/zero-contrib/zrpc/registry/consul"
 	"google.golang.org/grpc"
 )
 
